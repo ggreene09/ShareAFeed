@@ -9,7 +9,7 @@ import math
 window = tk.Tk()
 
 window.title("ShareASale Datafeed Converter")
-window.iconbitmap('p2.ico')
+# window.iconbitmap('p2.ico')
 
 window.geometry('650x300')
 window.resizable(width=False, height=False)
